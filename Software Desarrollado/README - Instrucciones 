@@ -1,0 +1,9 @@
+Instrucciones. 
+
+Se incluye en este dvd una maquina virtual, la cual debe ser importada utilizando VMWare Workstation version 12. Dicha maquina cuenta con un SO ubuntu 14.04 y todo el paquete software "Modulo ASCAT" se encuentra correctamente instalado y funcional. 
+La contraseña de la maquina es: ascat 
+
+En la carpeta "Codigos fuente y programas" podra encontrar todo el paquete "Modulo ASCAT". Los script y modulos de inico se encutran en la carptea ModuloASCAT. Los demas codigos Python podrá encontrarlos en la carpeta cgi-bin. 
+
+Muchas Gracias. 
+Pedro Vallduvi. 
